@@ -1,0 +1,10 @@
+interface is a group of structs that 
+shared common functions. ต้องมี method ที่เหมือนกัน
+
+////
+
+struct ---> book{} game{} puzzle{}
+var store (ถ้าเป็น []game type เดียว)
+var store list (หรือสร้างอีกหน้า type list []printer<--interface) 
+
+store  ---> [book{} game{} puzzle{}]
