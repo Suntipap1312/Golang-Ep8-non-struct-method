@@ -1,0 +1,1 @@
+# Golang-Ep8-non-struct-method
